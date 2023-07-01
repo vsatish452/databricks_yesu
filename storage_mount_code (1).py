@@ -34,6 +34,10 @@ dbutils.fs.mount(
 
 # COMMAND ----------
 
+dbutils.fs.ls("/mnt/datapwc/processinglayer")
+
+# COMMAND ----------
+
 storage_account_name
 
 # COMMAND ----------
